@@ -98,7 +98,7 @@ const ThietKeDecorUI = () => {
             {/* Logo */}
             <div className="flex items-center">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
-                ThietKeDecor.vn
+                ChinhToan.vn
               </h1>
             </div>
 
